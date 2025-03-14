@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @MoonlightTaVi
-- 👀 I’m interested in Natural Language Processing, Domain Specific Languages, Java and Godot (and a little bit of Unity) programming, making different types of 2/2.5D and text-based games
-- 🌱 I’m currently learning Java and LibGDX, at 2024.10 has started learning Java Spring (mainly databases) and Frontend stack (React). Also gonna study C++ for educational purposes
-- 💞️ I’m looking for any official job in any programming-related field, corresponding to my knowledges, or participating in any interesting game project (2D or 2,5D, text-based, AI-powered, PC or Android)
-- 📫 How to reach me: moonlight9512@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I started programming as a self-learner at the age of 12, and I haven't received any education in programming at all
-[![roadmap.sh](https://roadmap.sh/card/tall/6716123e791f57dd603ed901?variant=dark&roadmaps=spring-boot%2Creact%2Ccpp%2Cbackend)](https://roadmap.sh)
+## Greetings
+Name's **MoonlightTaVi**. Java enjoyer, C++ admirer. Always trying to find out something new. Making games since I was around ~12-14: the mere reason why I started programming. Like Java's phylosophy of "high and safe abstraction", but also like C's "do it yourself". Find some relaxation in working with Data Queries.
+
+### P.S.
+_Currently the profile is under heavy reconstruction; many repositories became private (because I don't like them), but I want to upload some new projects (based on the previous ones), which hopefully are going to have a solid ground beneath feet._
+### Working on:
+- A game engine (or, rather, _a facade_), based upon the [LibGDX](https://libgdx.com/) framework; willing to take some interesting and unusual approaches towards the pipeline of game development (doing it rather for my interests; I don't like existing game engines)
+- Some projects based on Java Spring, because while I know something about it, I have no real projects (except for one hidden) based upon it
 <!---
 MoonlightTaVi/MoonlightTaVi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
