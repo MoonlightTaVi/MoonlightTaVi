@@ -1,12 +1,20 @@
 ## Greetings
-Name's **MoonlightTaVi**. Java enjoyer, C++ admirer. Always trying to find out something new. Making games since I was around ~12-14: the mere reason why I started programming. Like Java's phylosophy of "high and safe abstraction", but also like C's "do it yourself". Find some relaxation in working with Data Queries.
 
-### P.S.
-_Currently the profile is under heavy reconstruction; many repositories became private (because I don't like them), but I want to upload some new projects (based on the previous ones), which hopefully are going to have a solid ground beneath feet._
-### Working on:
-- A game engine (or, rather, _a facade_), based upon the [LibGDX](https://libgdx.com/) framework; willing to take some interesting and unusual approaches towards the pipeline of game development (doing it rather for my interests; I don't like existing game engines)
-- Some projects based on Java Spring, because while I know something about it, I have no real projects (except for one hidden) based upon it
-<!---
-MoonlightTaVi/MoonlightTaVi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would `CODE` about a little and see the `UNDEFINED` part of the world. It is a way I have of driving off the spleen and regulating the circulation. Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people's hats off—then, I account it high time to get to `CODING` as soon as I can. This is my substitute for pistol and ball. With a philosophical flourish Cato throws himself upon his sword; I quietly take to the `IDE`. There is nothing surprising in this. If they but knew it, almost all men in their degree, some time or other, cherish very nearly the same feelings towards the `CODE` with me.
+
+```Java
+public static void main(String[] args) {
+  User user = usersRepository.get("MoonlightTavi");
+  while (user.isAlive()) {
+    try {
+      user.makeGameEngineInJava();
+    }
+    catch (GodClassException | HighCouplingException e) {
+      user.cry();
+    }
+    finally {
+      yearsOfLifeWasted++;
+    }
+  }
+}
+```
